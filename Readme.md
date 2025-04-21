@@ -1,5 +1,8 @@
 # Recipe API By Sivabalan T
 
+## Verify the Documents for Detailed Explannation
+- [Docs Link](https://docs.google.com/document/d/16gV7EQck6rJ89sC9ex_zftPFtToo2ZpfVzUy15VrObw/edit?usp=sharing)
+  
 ##  Project Structure
 ```
 recipe-app/
@@ -63,7 +66,7 @@ This will load the recipe data into the PostgreSQL database.
 ### API Endpoints:
 - Swagger Documentation: `http://localhost:5000/apidocs`
 - Get All Recipes: `http://localhost:5000/api/recipes`
-- Search Recipes: `http://localhost:5000/api/recipes/search?query=chicken`
+- Search Recipes: `http://localhost:5000/api/recipes/search?query=dosa`
 
 ---
 
@@ -88,7 +91,7 @@ npm start
 
 ---
 
-## Verify the Documents for Detailed Explannation
-- Link - `http://localhost:3000`
+
+
 
 
