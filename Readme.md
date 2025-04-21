@@ -46,7 +46,7 @@ docker start redis-dev
 
 ---
 
-## 🚀 Backend Setup
+## Backend Setup
 ```bash
 cd backend
 ```
@@ -70,7 +70,7 @@ This will load the recipe data into the PostgreSQL database.
 
 ---
 
-## 🌐 Frontend Setup
+## Frontend Setup
 ```bash
 cd frontend
 cd react-host-html
@@ -84,7 +84,7 @@ npm start
 
 ---
 
-## 🧪 Testing Redis Cache (To Evaluate Performance)
+## Testing Redis Cache (To Evaluate Performance)
 - Use Postman to test the `/api/recipes/search` endpoint.
 - First request: data is fetched from PostgreSQL and cached.
 - Second request: same query returns data faster from Redis.
