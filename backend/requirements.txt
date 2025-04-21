@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+sqlalchemy
+psycopg2-binary==2.9.9
+redis==5.0.3
+ijson==3.2.3
+flask-cors
+python-dotenv
+flasgger
